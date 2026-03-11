@@ -1,5 +1,5 @@
 -- ============================================================
--- Task 1: Organizing and Understanding the Data
+-- Organizing and Understanding the Data
 -- ============================================================
 -- Join device_data and impact_data, calculate device age,
 -- and bucket devices into age categories for analysis.
