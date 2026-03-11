@@ -1,6 +1,6 @@
 # Analysis Findings & Recommendations
 
-## Task 1: Data Organization
+## Data Organization
 
 After joining `intel.device_data` and `intel.impact_data` on `device_id` and ordering by model year, a clear pattern emerged: **newer devices dominate the repurposing pool**.
 
@@ -11,7 +11,7 @@ This indicates that individuals and corporations replace devices even while they
 
 ---
 
-## Task 2: Key Insights
+## Key Insights
 
 | Metric | Value |
 |---|---|
@@ -26,7 +26,7 @@ This indicates that individuals and corporations replace devices even while they
 
 ---
 
-## Task 3: Trends
+## Trends
 
 ### By Device Type
 Laptops slightly outperform desktops in both average energy savings and CO₂ reduction per device. This is likely because laptops are replaced more frequently due to mobility needs and the faster perceived obsolescence of portable hardware.
@@ -39,7 +39,7 @@ Repurposing in high carbon-intensity electricity regions (such as Asia) produces
 
 ---
 
-## Task 4: Recommendations
+## Recommendations
 
 ### Key Takeaways
 1. Older devices (6+ years) have a significantly more positive impact on energy savings and CO₂ reductions compared to newer ones — this is the highest-leverage variable in the dataset.
@@ -54,7 +54,7 @@ Finally, Intel should implement continuous tracking of average device age, energ
 
 ---
 
-## Level Up: % Contribution by Device Type per Region
+## % Contribution by Device Type per Region
 
 **Laptops in Asia** contributed the most energy savings and CO₂ reductions relative to their device count, with Laptops in Europe as a close second.
 
