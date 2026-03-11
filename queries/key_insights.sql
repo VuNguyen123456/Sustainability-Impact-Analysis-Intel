@@ -1,5 +1,5 @@
 -- ============================================================
--- Task 2: Key Insights
+-- Key Insights
 -- ============================================================
 -- Program-wide totals and averages for Intel's 2024
 -- repurposing program using the WITH (CTE) pattern.
