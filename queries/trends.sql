@@ -1,5 +1,5 @@
 -- ============================================================
--- Task 3: Identifying Trends & Maximizing Sustainability
+-- Identifying Trends & Maximizing Sustainability
 -- ============================================================
 -- Group by device type, device age bucket, and region
 -- to uncover where repurposing has the greatest impact.
